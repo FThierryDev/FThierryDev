@@ -18,7 +18,7 @@
 <a href="https://twitter.com/fthierry20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fthierry20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fulgêncio silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fulgêncio silva" height="30" width="40" /></a>
 <a href="https://codesandbox.com/fthierry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="fthierry" height="30" width="40" /></a>
-<a href="https://fb.com/thierry silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thierry silva" height="30" width="40" /></a>
+<a href="https://fb.com/FThierry18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thierry silva" height="30" width="40" /></a>
 <a href="https://instagram.com/fthierry1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fthierry1" height="30" width="40" /></a>
 </p>
 
